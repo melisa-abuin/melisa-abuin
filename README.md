@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [my resume online](https://github.com/Mel-A/my-resume-online)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **React, Redux, Javascript in general**
+- 💬 Ask me about **React, Redux, React Native and Javascript in general**
 
 - 📫 How to reach me **melisa.abuin@gmail.com**
 
