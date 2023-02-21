@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Melisa Abuin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [my resume online](https://github.com/Mel-A/my-resume-online)
+- 🔭 I’m currently working on [cocktail ideas](https://github.com/melisa-abuin/cocktail-ideas)
 
 - 🌱 I’m currently learning **Node JS**
 
