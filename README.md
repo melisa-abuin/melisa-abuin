@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [cocktail ideas](https://github.com/melisa-abuin/cocktail-ideas)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **TensorFlow JS**
 
 - 💬 Ask me about **React, Redux, React Native and Javascript in general**
 
