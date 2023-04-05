@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow JS**
 
-- 💬 Ask me about **React, Redux, React Native and Javascript in general**
+- 💬 Ask me about **React, Redux, React Native and Typescript in general**
 
 - 📫 How to reach me **melisa.abuin@gmail.com**
 
