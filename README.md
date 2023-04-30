@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Melisa Abuin</h1>
 <h3 align="center">👋 Welcome to my GitHub Profile!</h3>
 
 Hello there! I'm a passionate ✨ _frontend developer_ ✨ with expertise in **React**, **TypeScript**, **JavaScript**, and **React Native**. Currently, I'm studying **TensorFlow.j**s to explore the exciting world of machine learning in the browser.
