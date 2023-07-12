@@ -5,3 +5,10 @@ Hello there! I'm a passionate ✨ _frontend developer_ ✨ with expertise in **R
 Here, you'll find a collection of my side projects and hobbies 🚀. From crafting beautiful user interfaces to building efficient backend systems, I love bringing ideas to life. Feel free to browse through my repositories and reach out if you have any questions or want to collaborate.
 
 Thanks for visiting, and happy coding! 💻
+
+<div align="center">
+    <br />
+    <h4 align="center">:octocat: Github Stats</h4>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=melisa-abuin&theme=violet-dark&background=EB545400">
+</div>
+
