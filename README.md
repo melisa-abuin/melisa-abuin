@@ -9,6 +9,6 @@ Thanks for visiting, and happy coding! 💻
 <div align="center">
     <br />
     <h4 align="center">:octocat: Github Stats</h4>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=melisa-abuin&theme=rose&background=EB545400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=melisa-abuin&theme=rust-ferris-dark&background=EB545400">
 </div>
 
