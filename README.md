@@ -1,10 +1,11 @@
 <h3 align="center">👋 Welcome to my GitHub Profile!</h3>
 
-Hello there! I'm a passionate ✨ _frontend developer_ ✨ with expertise in **React**, **TypeScript**, **JavaScript**, and **React Native**. Currently, I'm studying **TensorFlow.j**s to explore the exciting world of machine learning in the browser.
+My stack:
+React | Next | Typescript | Jest
 
-Here, you'll find a collection of my side projects and hobbies 🚀. From crafting beautiful user interfaces to building efficient backend systems, I love bringing ideas to life. Feel free to browse through my repositories and reach out if you have any questions or want to collaborate.
+<p>With over 8 years of experience in frontend development, I specialize in building high-quality web and mobile applications using React, TypeScript, and Next.js, leveraging AI agents as part of my development workflow. I focus on clean, maintainable code, strong UI/UX, and scalable architecture, consistently delivering features that align with business goals. My background includes a solid foundation in unit testing, performance optimization, and cross-functional collaboration. I’m passionate about solving complex challenges, continuously improving developer experience, and staying current with emerging technologies to create effective, modern solutions. </p>
 
-Thanks for visiting, and happy coding! 💻
+Currently working on the [run kitty run statistics website](https://github.com/melisa-abuin/rkr-w3)
 
 <div align="center">
     <br />
