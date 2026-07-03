@@ -3,7 +3,10 @@
 My stack:
 React | Next | Typescript | Jest
 
-<p>With over 8 years of experience in frontend development, I specialize in building high-quality web and mobile applications using React, TypeScript, and Next.js, leveraging AI agents as part of my development workflow. I focus on clean, maintainable code, strong UI/UX, and scalable architecture, consistently delivering features that align with business goals. My background includes a solid foundation in unit testing, performance optimization, and cross-functional collaboration. I’m passionate about solving complex challenges, continuously improving developer experience, and staying current with emerging technologies to create effective, modern solutions. </p>
+<p>Senior Frontend Engineer with 8+ years working fully remote across distributed European and 
+US teams, now based in Venlo. Experienced in leveraging AI-driven workflows to improve 
+development efficiency and support technical decision-making. Strong product mindset with 
+proven impact on complex, multi-brand platforms.  </p>
 
 Currently working on the [run kitty run statistics website](https://github.com/melisa-abuin/rkr-w3)
 
