@@ -4,7 +4,7 @@ My stack:
 React | Next | Typescript | Jest
 
 <p>Senior Frontend Engineer with 8+ years working fully remote across distributed European and 
-US teams, now based in Venlo. Experienced in leveraging AI-driven workflows to improve 
+US teams. Experienced in leveraging AI-driven workflows to improve 
 development efficiency and support technical decision-making. Strong product mindset with 
 proven impact on complex, multi-brand platforms.  </p>
 
