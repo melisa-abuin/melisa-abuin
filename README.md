@@ -8,7 +8,8 @@ US teams. Experienced in leveraging AI-driven workflows to improve
 development efficiency and support technical decision-making. Strong product mindset with 
 proven impact on complex, multi-brand platforms.  </p>
 
-Currently working on the [run kitty run statistics website](https://github.com/melisa-abuin/rkr-w3)
+- Currently working on the [run kitty run statistics website](https://github.com/melisa-abuin/rkr-w3)
+- Visit my [website](https://melisaabuin.vercel.app/en)
 
 <div align="center">
     <br />
